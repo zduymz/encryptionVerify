@@ -1,0 +1,4 @@
+.idea
+*.enc
+.DS_Store
+dist/
